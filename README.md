@@ -35,7 +35,7 @@ Classifying iris flower species using Machine Learning in Python.
 🚀 **Quick Start**
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/iris-flower-classification.git](https://github.com/YOUR_USERNAME/iris-flower-classification.git)
+git clone [https://github.com/Padam318/iris-flower-classification.git](https://github.com/Padam318/iris-flower-classification.git)
 pip install pandas numpy seaborn matplotlib scikit-learn
 jupyter notebook
 
