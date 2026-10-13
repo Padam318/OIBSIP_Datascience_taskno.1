@@ -30,12 +30,5 @@ Classifying iris flower species using Machine Learning in Python.
 | **Logistic Regression** | ~97.8% - 100% | ~1.0000 |
 | **K-Nearest Neighbors** | ~95.5% - 100% | High |
 
----
-
-🚀 **Quick Start**
-
-```bash
-git clone [https://github.com/Padam318/iris-flower-classification.git](https://github.com/Padam318/iris-flower-classification.git)
-pip install pandas numpy seaborn matplotlib scikit-learn
 jupyter notebook
 
